@@ -4,10 +4,12 @@ import { BsChevronDown, BsSearch, BsBell } from "react-icons/bs";
 import MobileMenu from "./MobileMenu";
 import { useState, useCallback, useEffect } from "react";
 import AccountMenu from "./AccountMenu";
+import { useRouter } from "next/router";
 
 const TOP_OFFSET = 66;
 
 const Navbar = () => {
+	const router = useRouter();
 	const [showMobileMenu, setShowMobileMenu] = useState(false);
 	const [showAccountMenu, setShowAccountMenu] = useState(false);
 	const [showBackground, setShowBackground] = useState(false);
@@ -45,12 +47,12 @@ const Navbar = () => {
 			>
 				<img className="h-4 lg:h-7" src="/images/logo.png" alt="Logo" />
 				<div className="flex-row ml-8 gap-7 hidden lg:flex">
-					<NavbarItem label="Home" />
-					<NavbarItem label="Series" />
-					<NavbarItem label="Films" />
-					<NavbarItem label="New & Popular" />
-					<NavbarItem label="My List" />
-					<NavbarItem label="Browse by languages" />
+					<NavbarItem label="Home" path="/" />
+					<NavbarItem label="Series" path="series" />
+					<NavbarItem label="Films" path="films" />
+					<NavbarItem label="New & Popular" path="popular" />
+					<NavbarItem label="My List" path="my-lists" />
+					<NavbarItem label="Browse by lan'guages" path="browse" />
 				</div>
 				<div
 					onClick={toggleMobileMenu}
