@@ -1,0 +1,590 @@
+[
+	{
+		"title": "Breaking Bad",
+		"year": "2008–2013",
+		"imdbID": "tt0903747",
+		"type": "series",
+		"poster": "https://m.media-amazon.com/images/M/MV5BYmQ4YWMxYjUtNjZmYi00MDQ1LWFjMjMtNjA5ZDdiYjdiODU5XkEyXkFqcGdeQXVyMTMzNDExODE5._V1_SX300.jpg"
+	},
+	{
+		"title": "Breaking In",
+		"year": "2011–2012",
+		"imdbID": "tt1630574",
+		"type": "series",
+		"poster": "https://m.media-amazon.com/images/M/MV5BMjI1MTUwNjA1N15BMl5BanBnXkFtZTcwMjQ0NTM2Nw@@._V1_SX300.jpg"
+	},
+	{
+		"title": "Breaking Bad: Original Minisodes",
+		"year": "2009–2011",
+		"imdbID": "tt2387761",
+		"type": "series",
+		"poster": "https://m.media-amazon.com/images/M/MV5BMDdlM2QzOGMtODc2My00NTFjLWIyZGUtYjQ4NDNhZjYyM2NkXkEyXkFqcGdeQXVyMDM0MzU2NA@@._V1_SX300.jpg"
+	},
+	{
+		"title": "Now, We Are Breaking Up",
+		"year": "2021–",
+		"imdbID": "tt14408016",
+		"type": "series",
+		"poster": "https://m.media-amazon.com/images/M/MV5BN2ExZDc1ZjktMmYwZS00MDY0LTg4ZWMtN2RmNzZlYTVjYjEyXkEyXkFqcGdeQXVyMTMxMTgyMzU4._V1_SX300.jpg"
+	},
+	{
+		"title": "Breaking News",
+		"year": "1994–1997",
+		"imdbID": "tt0108780",
+		"type": "series",
+		"poster": "https://m.media-amazon.com/images/M/MV5BMjM3ODMyMjQzMV5BMl5BanBnXkFtZTgwNDQ0NDMzMjE@._V1_SX300.jpg"
+	},
+	{
+		"title": "Breaking Amish",
+		"year": "2012–2014",
+		"imdbID": "tt2386354",
+		"type": "series",
+		"poster": "https://m.media-amazon.com/images/M/MV5BMGIwOGVjYWYtOGY5Ni00NzQxLWJiZDItMzU1OThjODc4NDEwXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg"
+	},
+	{
+		"title": "Nevenka: Breaking the Silence",
+		"year": "2021",
+		"imdbID": "tt14091172",
+		"type": "series",
+		"poster": "https://m.media-amazon.com/images/M/MV5BMmQ3MGU4MTMtYTMwMy00ZWNlLTkxZDUtMTlmZTFiYzRkMzRmXkEyXkFqcGdeQXVyODc0OTEyNDU@._V1_SX300.jpg"
+	},
+	{
+		"title": "Breaking Pointe",
+		"year": "2012–",
+		"imdbID": "tt2290981",
+		"type": "series",
+		"poster": "https://m.media-amazon.com/images/M/MV5BNzI3ODU1MTYtOTg3Ni00MGMxLWExMDYtNmE2MTJhZWZhYjIzXkEyXkFqcGdeQXVyNjc3MjQzNTI@._V1_SX300.jpg"
+	},
+	{
+		"title": "Bangkok Breaking",
+		"year": "2021",
+		"imdbID": "tt14202282",
+		"type": "series",
+		"poster": "https://m.media-amazon.com/images/M/MV5BN2ZhYjE5NjktMDU1OS00ZTNhLWIwMTUtNTdkYzAxYzQ0ZjdkXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_SX300.jpg"
+	},
+	{
+		"title": "Breaking Homicide",
+		"year": "2018–",
+		"imdbID": "tt7878864",
+		"type": "series",
+		"poster": "https://m.media-amazon.com/images/M/MV5BNWUyNzhiN2MtNWE5YS00NDQ3LTgxMDMtZTMyOWRjMjIzZGU0XkEyXkFqcGdeQXVyMTUyNjc3NDQ4._V1_SX300.jpg"
+	},
+	{
+		"title": "Tokyo Ghoul",
+		"year": "2014",
+		"imdbID": "tt3741634",
+		"type": "series",
+		"poster": "https://m.media-amazon.com/images/M/MV5BYjQ4MmMwODktNzEzOS00YzU1LWE2YWEtODkwY2Q0OTM2OWU5XkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_SX300.jpg"
+	},
+	{
+		"title": "Tokyo Vice",
+		"year": "2022–",
+		"imdbID": "tt2887954",
+		"type": "series",
+		"poster": "https://m.media-amazon.com/images/M/MV5BYWVhN2Q2MDEtMzIzYS00M2EwLTlmZDItMzk5YTUzZWE0MjkwXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_SX300.jpg"
+	},
+	{
+		"title": "Tokyo Revengers",
+		"year": "2021–",
+		"imdbID": "tt13196080",
+		"type": "series",
+		"poster": "https://m.media-amazon.com/images/M/MV5BNTVkMzRlYmMtYzc1Ny00YTQ5LWI5ZTAtNTk3YmYxOWYwZGVlXkEyXkFqcGdeQXVyOTc4OTAwMjU@._V1_SX300.jpg"
+	},
+	{
+		"title": "Tokyo Ghoul: Root A",
+		"year": "2015",
+		"imdbID": "tt5497534",
+		"type": "series",
+		"poster": "https://m.media-amazon.com/images/M/MV5BOWZmMDdhNTktZTRlZC00YzExLTk2ZTAtM2IxNjc4YzBlYmY0XkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_SX300.jpg"
+	},
+	{
+		"title": "Tokyo Ghoul: re",
+		"year": "2018",
+		"imdbID": "tt8213522",
+		"type": "series",
+		"poster": "https://m.media-amazon.com/images/M/MV5BY2M4MGVjODgtYmY4OS00N2U4LTlkNzUtY2NjYzRiMTI3YjgwXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_SX300.jpg"
+	},
+	{
+		"title": "Midnight Diner: Tokyo Stories",
+		"year": "2016–2019",
+		"imdbID": "tt6150576",
+		"type": "series",
+		"poster": "https://m.media-amazon.com/images/M/MV5BZDU5NTNhZTctYTY2MS00NzJjLThlOGYtYzI1ZjFlNjgzMWIyXkEyXkFqcGdeQXVyNjYzMDA4MTI@._V1_SX300.jpg"
+	},
+	{
+		"title": "Tokyo Trial",
+		"year": "2016",
+		"imdbID": "tt4040530",
+		"type": "series",
+		"poster": "https://m.media-amazon.com/images/M/MV5BOTg3MmE0NzctYzk2Mi00M2Y0LTk4ZTktODVmNGNmMjM5ZTQ3XkEyXkFqcGdeQXVyMjAxNDg0NzA@._V1_SX300.jpg"
+	},
+	{
+		"title": "Tôkyô magunichûdo 8.0",
+		"year": "2009",
+		"imdbID": "tt1440068",
+		"type": "series",
+		"poster": "https://m.media-amazon.com/images/M/MV5BOTRmMzRhMmYtZDE1Yi00NzBlLWE2NjctMThjYzQwMWEwYjJkXkEyXkFqcGdeQXVyODMxNzcyNDI@._V1_SX300.jpg"
+	},
+	{
+		"title": "Mischievous Kiss: Love in Tokyo",
+		"year": "2013–2015",
+		"imdbID": "tt2772104",
+		"type": "series",
+		"poster": "https://m.media-amazon.com/images/M/MV5BMzkzMWFjOWQtZGRjMS00NzYwLTk2OTEtODcyZDY5N2M3NmY2XkEyXkFqcGdeQXVyMjg0MTI5NzQ@._V1_SX300.jpg"
+	},
+	{
+		"title": "Tokyo Ravens",
+		"year": "2013–2014",
+		"imdbID": "tt3104072",
+		"type": "series",
+		"poster": "https://m.media-amazon.com/images/M/MV5BZjA4MzRmYjYtYWYzZi00ZTk1LWIxODYtM2I3ZTM3ZDRmNTdiXkEyXkFqcGdeQXVyMjc4OTQ1OTA@._V1_SX300.jpg"
+	},
+	{
+		"title": "The Walking Dead",
+		"year": "2010–2022",
+		"imdbID": "tt1520211",
+		"type": "series",
+		"poster": "https://m.media-amazon.com/images/M/MV5BZmU5NTcwNjktODIwMi00ZmZkLTk4ZWUtYzVjZWQ5ZTZjN2RlXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg"
+	},
+	{
+		"title": "Fear the Walking Dead",
+		"year": "2015–2023",
+		"imdbID": "tt3743822",
+		"type": "series",
+		"poster": "https://m.media-amazon.com/images/M/MV5BM2ZlOWVlZjAtODE4OC00NmRmLWFmNzgtNTAxYWQ5Y2M1MzA2XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg"
+	},
+	{
+		"title": "The Walking Dead: World Beyond",
+		"year": "2020–2021",
+		"imdbID": "tt10148174",
+		"type": "series",
+		"poster": "https://m.media-amazon.com/images/M/MV5BODEzZjAwOGMtMWZkZC00Nzg1LTlmNDUtNDU5NDA5YmViOTMwXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg"
+	},
+	{
+		"title": "Walking with Dinosaurs",
+		"year": "1999",
+		"imdbID": "tt0214382",
+		"type": "series",
+		"poster": "https://m.media-amazon.com/images/M/MV5BOTU1YTZiOTEtYWEwOC00NGZkLWEzYjAtNDk4NTMwYjBhNTFiXkEyXkFqcGdeQXVyNjcwMzExMzU@._V1_SX300.jpg"
+	},
+	{
+		"title": "The Walking Dead: Webisodes",
+		"year": "2011–2018",
+		"imdbID": "tt2022190",
+		"type": "series",
+		"poster": "https://m.media-amazon.com/images/M/MV5BNDIzOGE4NzYtNDJlNi00YjRlLWE0MDMtMjUzNDQ0NjM5ODZlXkEyXkFqcGdeQXVyMjQ1NTU3Nzg@._V1_SX300.jpg"
+	},
+	{
+		"title": "Tales of the Walking Dead",
+		"year": "2022–",
+		"imdbID": "tt15669534",
+		"type": "series",
+		"poster": "https://m.media-amazon.com/images/M/MV5BYjc1MTgyOWItMDYxYi00MzY1LTk0MmYtNDI0MWM0ZjQzZjhjXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_SX300.jpg"
+	},
+	{
+		"title": "Walking with Prehistoric Beasts",
+		"year": "2001",
+		"imdbID": "tt0286285",
+		"type": "series",
+		"poster": "https://m.media-amazon.com/images/M/MV5BZjRlNTY4MWEtOWQ2Zi00ZDkyLWFlNzgtNDA4ZDcwYTEzMjJhXkEyXkFqcGdeQXVyNjcwMzExMzU@._V1_SX300.jpg"
+	},
+	{
+		"title": "Fear the Walking Dead: Flight 462",
+		"year": "2015–2016",
+		"imdbID": "tt5095238",
+		"type": "series",
+		"poster": "https://m.media-amazon.com/images/M/MV5BNWQ0YmZiNmQtOWMyNy00MTcxLTg2NGItYzkxZjE0M2VkZDVmXkEyXkFqcGdeQXVyMDM0MzU2NA@@._V1_SX300.jpg"
+	},
+	{
+		"title": "Walking with Monsters",
+		"year": "2005",
+		"imdbID": "tt0490048",
+		"type": "series",
+		"poster": "https://m.media-amazon.com/images/M/MV5BZWVjNGViZWUtZWM3MC00ZDdmLWFhOGItOWQyODhjNTk0ZDYyXkEyXkFqcGdeQXVyNjcwMzExMzU@._V1_SX300.jpg"
+	},
+	{
+		"title": "Allosaurus: A Walking with Dinosaurs Special",
+		"year": "2000",
+		"imdbID": "tt0283245",
+		"type": "series",
+		"poster": "https://m.media-amazon.com/images/M/MV5BY2RjNjNlZjYtYzhmYi00Y2FhLThkNWItOWY4N2U2OGY3MDI4XkEyXkFqcGdeQXVyNjcwMzExMzU@._V1_SX300.jpg"
+	},
+	{
+		"title": "How to Get Away with Murder",
+		"year": "2014–2020",
+		"imdbID": "tt3205802",
+		"type": "series",
+		"poster": "https://m.media-amazon.com/images/M/MV5BZDQ5ZDRhMWItNjA5Ni00MDhiLTgwN2EtZjFkYzgzNjBhZTIyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg"
+	},
+	{
+		"title": "How To Get Away With Recess",
+		"year": "2019",
+		"imdbID": "tt10393942",
+		"type": "series",
+		"poster": "https://m.media-amazon.com/images/M/MV5BZTYxOTE0NTQtMTA4MS00MzUxLTk5ZGMtMTE2MTdlNmJlYmExXkEyXkFqcGdeQXVyMzYwNjMzOTg@._V1_SX300.jpg"
+	},
+	{
+		"title": "Orange Is the New Black",
+		"year": "2013–2019",
+		"imdbID": "tt2372162",
+		"type": "series",
+		"poster": "https://m.media-amazon.com/images/M/MV5BYjYyM2FmMmMtZDgyZi00NGU3LWI3NzktODllZDY0YzQyNzgyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg"
+	},
+	{
+		"title": "Orange Is the New Brown",
+		"year": "2018",
+		"imdbID": "tt8982872",
+		"type": "series",
+		"poster": "https://m.media-amazon.com/images/M/MV5BMjhmYTllOWEtODE1MS00OTQwLWFkYTQtNGI1OGRlYzZkZTViXkEyXkFqcGdeQXVyOTUzNTUwMjQ@._V1_SX300.jpg"
+	},
+	{
+		"title": "Orange Is the New Black and Sexy",
+		"year": "2013–",
+		"imdbID": "tt3410692",
+		"type": "series",
+		"poster": "https://m.media-amazon.com/images/M/MV5BOGJkZmI0YjMtY2E2Yy00YTZkLTg2YjItN2M0YTA2ZDAzNTY1XkEyXkFqcGdeQXVyMjcwMzQ4NTI@._V1_SX300.jpg"
+	},
+	{
+		"title": "Atypical",
+		"year": "2017–2021",
+		"imdbID": "tt6315640",
+		"type": "series",
+		"poster": "https://m.media-amazon.com/images/M/MV5BMjNjNThmYTUtMjY2Ni00OGE4LTgzOTItYTgzMDllNDM5NTI5XkEyXkFqcGdeQXVyNjEwNTM2Mzc@._V1_SX300.jpg"
+	},
+	{
+		"title": "Atypical Crime Investigator, Hinako Todo",
+		"year": "2016–",
+		"imdbID": "tt5747434",
+		"type": "series",
+		"poster": "https://m.media-amazon.com/images/M/MV5BOGE4NmYyNmItYTQyYS00NjY3LWI5YzMtNWRiYjE1NTYwYWM2XkEyXkFqcGdeQXVyMjY0MDY4Mjk@._V1_SX300.jpg"
+	},
+	{
+		"title": "Stranger Things",
+		"year": "2016–2024",
+		"imdbID": "tt4574334",
+		"type": "series",
+		"poster": "https://m.media-amazon.com/images/M/MV5BMDZkYmVhNjMtNWU4MC00MDQxLWE3MjYtZGMzZWI1ZjhlOWJmXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg"
+	},
+	{
+		"title": "The Stranger",
+		"year": "2020",
+		"imdbID": "tt9698480",
+		"type": "series",
+		"poster": "https://m.media-amazon.com/images/M/MV5BNWNlYzA2OWUtMWE1Mi00ZjMyLWExY2ItZDVlZmQ0YTMyZmEyXkEyXkFqcGdeQXVyMjYwNDA2MDE@._V1_SX300.jpg"
+	},
+	{
+		"title": "Stranger",
+		"year": "2017–",
+		"imdbID": "tt6461346",
+		"type": "series",
+		"poster": "https://m.media-amazon.com/images/M/MV5BZWQ3MmFiNTctMzZkMS00NGY1LWI3ZTEtZjM4ZjJlY2VmMjY3XkEyXkFqcGdeQXVyNDU4MDQ0MjM@._V1_SX300.jpg"
+	},
+	{
+		"title": "Doctor Stranger",
+		"year": "2014",
+		"imdbID": "tt3693414",
+		"type": "series",
+		"poster": "https://m.media-amazon.com/images/M/MV5BMTc5YTAwMWQtZDBlNS00OTAzLWJlYzYtODVmMTRmYjVhMWE4XkEyXkFqcGdeQXVyMzE4MDkyNTA@._V1_SX300.jpg"
+	},
+	{
+		"title": "Stranger Things: Spotlight",
+		"year": "2018",
+		"imdbID": "tt11225622",
+		"type": "series",
+		"poster": "https://m.media-amazon.com/images/M/MV5BMDRjYWI5NTMtZTYzZC00NTg4LWI3NjMtNmI3MTdhMWQ5MGJlXkEyXkFqcGdeQXVyNTg4MDc4Mg@@._V1_SX300.jpg"
+	},
+	{
+		"title": "The Deliberate Stranger",
+		"year": "1986",
+		"imdbID": "tt0090925",
+		"type": "series",
+		"poster": "https://m.media-amazon.com/images/M/MV5BMjU2NjQ4MjQ2OF5BMl5BanBnXkFtZTcwMzY3NjMyMQ@@._V1_SX300.jpg"
+	},
+	{
+		"title": "Beyond Stranger Things",
+		"year": "2017",
+		"imdbID": "tt7570990",
+		"type": "series",
+		"poster": "https://m.media-amazon.com/images/M/MV5BZDdhMzRiMmUtZjVlMi00OWE1LTliYmMtODM3MTk5ZTJkNDFhXkEyXkFqcGdeQXVyNjkyOTA1NjY@._V1_SX300.jpg"
+	},
+	{
+		"title": "The Stranger",
+		"year": "2020",
+		"imdbID": "tt10681780",
+		"type": "series",
+		"poster": "https://m.media-amazon.com/images/M/MV5BMjUwYmZmYzUtZjEwNS00ZTE1LWJjOGQtNzBlMmFhMzIxMmJlXkEyXkFqcGdeQXVyNzg5MzIyOA@@._V1_SX300.jpg"
+	},
+	{
+		"title": "Stranger Things",
+		"year": "2008–2009",
+		"imdbID": "tt1460534",
+		"type": "series",
+		"poster": "https://m.media-amazon.com/images/M/MV5BNjY2NTkzODY0MV5BMl5BanBnXkFtZTgwNjk3NDA1OTE@._V1_SX300.jpg"
+	},
+	{
+		"title": "Hello, Stranger",
+		"year": "2020",
+		"imdbID": "tt12545754",
+		"type": "series",
+		"poster": "https://m.media-amazon.com/images/M/MV5BNjEzZGNlZDItZTc2ZC00ZDQwLWJhZmItYmQwNmQ1ODcxYjE1XkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_SX300.jpg"
+	},
+	{
+		"title": "13 Reasons Why",
+		"year": "2017–2020",
+		"imdbID": "tt1837492",
+		"type": "series",
+		"poster": "https://m.media-amazon.com/images/M/MV5BYmRhZjkyMjEtNjRkMS00MDQ0LTg2NGMtMTQ3ZjE0NjJmMjM2L2ltYWdlXkEyXkFqcGdeQXVyNTY0MTkxMTg@._V1_SX300.jpg"
+	},
+	{
+		"title": "13 Reasons Why: Beyond the Reasons",
+		"year": "2017–2019",
+		"imdbID": "tt8615966",
+		"type": "series",
+		"poster": "https://m.media-amazon.com/images/M/MV5BZjgxNTUwNDUtNzBiZi00ZjNmLTg3MmYtYTZmZWUxOTc5ZWM4XkEyXkFqcGdeQXVyMTEzNzczMA@@._V1_SX300.jpg"
+	},
+	{
+		"title": "Black Mirror",
+		"year": "2011–2019",
+		"imdbID": "tt2085059",
+		"type": "series",
+		"poster": "https://m.media-amazon.com/images/M/MV5BYTM3YWVhMDMtNjczMy00NGEyLWJhZDctYjNhMTRkNDE0ZTI1XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg"
+	},
+	{
+		"title": "Black Mirror",
+		"year": "2016–",
+		"imdbID": "tt4412328",
+		"type": "series",
+		"poster": "N/A"
+	},
+	{
+		"title": "Blind Wave: Black Mirror Reaction",
+		"year": "2018–",
+		"imdbID": "tt11535724",
+		"type": "series",
+		"poster": "https://m.media-amazon.com/images/M/MV5BY2MzMjJmODUtOTgyYS00NjY5LWJjNzgtZTBmMWViNWQ4ZTliXkEyXkFqcGdeQXVyMTExMTAxNjA2._V1_SX300.jpg"
+	},
+	{
+		"title": "Black Mirror Reflections",
+		"year": "2020–",
+		"imdbID": "tt13659782",
+		"type": "series",
+		"poster": "https://m.media-amazon.com/images/M/MV5BOGE0OTlkZTgtMmNhMi00MDU3LWI4MTUtODY4OTMyMDY2OGQ5XkEyXkFqcGdeQXVyMTU3MzMwNQ@@._V1_SX300.jpg"
+	},
+	{
+		"title": "The Big Bang Theory",
+		"year": "2007–2019",
+		"imdbID": "tt0898266",
+		"type": "series",
+		"poster": "https://m.media-amazon.com/images/M/MV5BY2FmZTY5YTktOWRlYy00NmIyLWE0ZmQtZDg2YjlmMzczZDZiXkEyXkFqcGdeQXVyNjg4NzAyOTA@._V1_SX300.jpg"
+	},
+	{
+		"title": "The Big Bang",
+		"year": "1996–",
+		"imdbID": "tt0305002",
+		"type": "series",
+		"poster": "https://m.media-amazon.com/images/M/MV5BMmU0ZjQ0NjItNTljMS00ZDFhLWEzNGYtNTkwOGI4ZTIyMmRhXkEyXkFqcGdeQXVyOTIxNDQ1MTQ@._V1_SX300.jpg"
+	},
+	{
+		"title": "The Big Bang Theory After Show",
+		"year": "2015–",
+		"imdbID": "tt5612894",
+		"type": "series",
+		"poster": "N/A"
+	},
+	{
+		"title": "Before the Big Bang V",
+		"year": "2017",
+		"imdbID": "tt7680546",
+		"type": "series",
+		"poster": "https://m.media-amazon.com/images/M/MV5BZWM0MjQyZTAtNWQwMC00MmFiLWI5NDQtZTUyNTdjMmM2OThlXkEyXkFqcGdeQXVyMTMwNTg3ODU@._V1_SX300.jpg"
+	},
+	{
+		"title": "Supernatural",
+		"year": "2005–2020",
+		"imdbID": "tt0460681",
+		"type": "series",
+		"poster": "https://m.media-amazon.com/images/M/MV5BNzRmZWJhNjUtY2ZkYy00N2MyLWJmNTktOTAwY2VkODVmOGY3XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg"
+	},
+	{
+		"title": "Supernatural: The Animation",
+		"year": "2011",
+		"imdbID": "tt1679482",
+		"type": "series",
+		"poster": "https://m.media-amazon.com/images/M/MV5BNDljNDlkZjctNDFlZi00ZjNjLTkxNDQtOTI5MzY1MGIzNGQ4XkEyXkFqcGdeQXVyNDQ2MTMzODA@._V1_SX300.jpg"
+	},
+	{
+		"title": "BuzzFeed Unsolved: Supernatural",
+		"year": "2016–2021",
+		"imdbID": "tt6723522",
+		"type": "series",
+		"poster": "https://m.media-amazon.com/images/M/MV5BOGY5NTAwMWUtOGJlYS00YmYwLWFlOTMtNzNjZDdlYjBiN2FjXkEyXkFqcGdeQXVyOTc1MTAwNTM@._V1_SX300.jpg"
+	},
+	{
+		"title": "Supernatural Academy",
+		"year": "2022",
+		"imdbID": "tt11237876",
+		"type": "series",
+		"poster": "https://m.media-amazon.com/images/M/MV5BMDBkYTU3OGEtOGI4Yy00OGNmLWE5NGEtYWNjNzM4NGQxOTgyXkEyXkFqcGdeQXVyNjQ0NzYyNTc@._V1_SX300.jpg"
+	},
+	{
+		"title": "When Supernatural Battles Became Commonplace",
+		"year": "2014",
+		"imdbID": "tt3952100",
+		"type": "series",
+		"poster": "https://m.media-amazon.com/images/M/MV5BMDZjZWQzYTUtZjhkMC00OTFjLWI0YjMtZWEwMTZiZGFhNzQ0XkEyXkFqcGdeQXVyNTM2MDEzNTg@._V1_SX300.jpg"
+	},
+	{
+		"title": "Sid Roth's It's Supernatural",
+		"year": "1996–",
+		"imdbID": "tt1216851",
+		"type": "series",
+		"poster": "https://m.media-amazon.com/images/M/MV5BOGExYjY5ODMtNWEyZC00NzgwLWIwZDctMGYzMTdhMjBiNWEzXkEyXkFqcGdeQXVyMTEzMzYwNjky._V1_SX300.jpg"
+	},
+	{
+		"title": "Supernatural",
+		"year": "1977",
+		"imdbID": "tt0396375",
+		"type": "series",
+		"poster": "https://m.media-amazon.com/images/M/MV5BNjg4MjgxMDcwNF5BMl5BanBnXkFtZTgwODY5NTk2NjE@._V1_SX300.jpg"
+	},
+	{
+		"title": "Muhyo & Roji's Bureau of Supernatural Investigation",
+		"year": "2018–",
+		"imdbID": "tt9286928",
+		"type": "series",
+		"poster": "https://m.media-amazon.com/images/M/MV5BMGMyMTc5NjItMGFkZS00ZWNlLWE4NTUtMTk1ZTZlY2VhNTNkXkEyXkFqcGdeQXVyODU3MDc2NzI@._V1_SX300.jpg"
+	},
+	{
+		"title": "Neuro: Supernatural Detective",
+		"year": "2007–2008",
+		"imdbID": "tt6565980",
+		"type": "series",
+		"poster": "https://m.media-amazon.com/images/M/MV5BYTQ5MzVjNWEtMTYzNS00YjM4LTlhMGUtZjIyZjI3MWEzYWRiXkEyXkFqcGdeQXVyNjc3NzUwNTg@._V1_SX300.jpg"
+	},
+	{
+		"title": "Supernatural Science",
+		"year": "1999–2001",
+		"imdbID": "tt0475205",
+		"type": "series",
+		"poster": "https://m.media-amazon.com/images/M/MV5BZjc5ZTljZWQtYjQ5NS00ODczLTk5MzktNWYwOGU5NjE1N2ZlXkEyXkFqcGdeQXVyMjI3MDczMjI@._V1_SX300.jpg"
+	},
+	{
+		"title": "The Gifted",
+		"year": "2017–2019",
+		"imdbID": "tt4396630",
+		"type": "series",
+		"poster": "https://m.media-amazon.com/images/M/MV5BMjIxODM5MDUyMV5BMl5BanBnXkFtZTgwMjY4MjI1NjM@._V1_SX300.jpg"
+	},
+	{
+		"title": "The Gifted",
+		"year": "2017–2018",
+		"imdbID": "tt9136312",
+		"type": "series",
+		"poster": "https://m.media-amazon.com/images/M/MV5BNzNjYzEzNTUtMGMxMC00NjMxLTk5NDUtNDkxZGQ0ZWVjZTA0XkEyXkFqcGdeQXVyNTA2NjYxMjI@._V1_SX300.jpg"
+	},
+	{
+		"title": "The Gifted: Graduation",
+		"year": "2020",
+		"imdbID": "tt12922236",
+		"type": "series",
+		"poster": "https://m.media-amazon.com/images/M/MV5BMTBlODk0ZmQtMTgyYS00YmU2LWIxMTItOGMwODg1NGE5NzRlXkEyXkFqcGdeQXVyMTA2NTM0NzM5._V1_SX300.jpg"
+	},
+	{
+		"title": "The Gifted",
+		"year": "2013–",
+		"imdbID": "tt3691598",
+		"type": "series",
+		"poster": "https://m.media-amazon.com/images/M/MV5BNTIxYmUwZGQtZGJkMi00MDAyLWExM2UtYmJkMDNlYmY5YWRhXkEyXkFqcGdeQXVyMzc2OTI0Nzk@._V1_SX300.jpg"
+	},
+	{
+		"title": "The Gifted Gab",
+		"year": "2019–",
+		"imdbID": "tt14905660",
+		"type": "series",
+		"poster": "https://m.media-amazon.com/images/M/MV5BYzMyYWY5NWUtODUwNC00OTk0LTkxZjMtZWQzYTRjZDdiYjI2XkEyXkFqcGdeQXVyMTMzNjk0MTkw._V1_SX300.jpg"
+	},
+	{
+		"title": "IGNITE Wrestling Keg-A-Mania: The Gifted vs That Klassic Tag Team",
+		"year": "2022–",
+		"imdbID": "tt17593150",
+		"type": "series",
+		"poster": "https://m.media-amazon.com/images/M/MV5BYjg4OTFiYjMtYWYzYi00NTE5LWJhZTctNWZhNGIyZGRlODgwXkEyXkFqcGdeQXVyODg4OTU2MTA@._V1_SX300.jpg"
+	},
+	{
+		"title": "The Gifted Chronicles",
+		"year": "2018–",
+		"imdbID": "tt9159786",
+		"type": "series",
+		"poster": "https://m.media-amazon.com/images/M/MV5BZjliMGNmNjQtMTgwYS00ZjU3LTg4NWQtNmNjYWMyZjFhZjdhXkEyXkFqcGdeQXVyMTAwNDYzODY1._V1_SX300.jpg"
+	},
+	{
+		"title": "Marvel's Moon Girl and Devil Dinosaur",
+		"year": "2023–",
+		"imdbID": "tt8041658",
+		"type": "series",
+		"poster": "https://m.media-amazon.com/images/M/MV5BY2QwYmZmYWMtY2VhZi00ZGFiLTg0N2UtNDg4OTNjYzA0MWQ0XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_SX300.jpg"
+	},
+	{
+		"title": "Marvel's Agents of S.H.I.E.L.D.: Academy",
+		"year": "2016",
+		"imdbID": "tt6243582",
+		"type": "series",
+		"poster": "https://m.media-amazon.com/images/M/MV5BZTQ1NmNhNGMtYjQwNi00YzAwLWEwOTAtNjc4ODk0MzgyODQ5L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMzU5NjI0MTM@._V1_SX300.jpg"
+	},
+	{
+		"title": "Marvel's Hero Project",
+		"year": "2019–2020",
+		"imdbID": "tt10163846",
+		"type": "series",
+		"poster": "https://m.media-amazon.com/images/M/MV5BYjg2OGU0NjMtMzNkMy00NTlhLWJlZWUtMWE2M2EwNzI2MzAzXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg"
+	},
+	{
+		"title": "Marvel's Storyboards",
+		"year": "2020–",
+		"imdbID": "tt11229748",
+		"type": "series",
+		"poster": "https://m.media-amazon.com/images/M/MV5BMzFhODcwNjQtNTU4MC00YjE3LThhNzMtMDAzNzg1ZTYyMjhhXkEyXkFqcGdeQXVyMzg5MjM2MTQ@._V1_SX300.jpg"
+	},
+	{
+		"title": "Marvel's Spider-Man",
+		"year": "2017",
+		"imdbID": "tt19371346",
+		"type": "series",
+		"poster": "N/A"
+	},
+	{
+		"title": "Marvel's Off the Rack",
+		"year": "2016–",
+		"imdbID": "tt5691530",
+		"type": "series",
+		"poster": "https://m.media-amazon.com/images/M/MV5BY2JhNDRiYzItZjg5Yi00MDc1LWIzZmQtY2Q5ZWNhZTIxNGZmXkEyXkFqcGdeQXVyNjU3NjY0Mg@@._V1_SX300.jpg"
+	},
+	{
+		"title": "Marvel's Pull List",
+		"year": "2018–",
+		"imdbID": "tt15313382",
+		"type": "series",
+		"poster": "N/A"
+	},
+	{
+		"title": "Marvel's Long Story Short",
+		"year": "2020–",
+		"imdbID": "tt18296636",
+		"type": "series",
+		"poster": "https://m.media-amazon.com/images/M/MV5BZDQ4NzBkOTktZGI3OC00YmYzLWFjYTctZTY0N2I2MmZkN2ZmXkEyXkFqcGdeQXVyNDM1MTgwODU@._V1_SX300.jpg"
+	},
+	{
+		"title": "Marvel's Ghost Rider",
+		"year": "2020–",
+		"imdbID": "tt10266872",
+		"type": "series",
+		"poster": "N/A"
+	},
+	{
+		"title": "Marvel's Playback",
+		"year": "2017–2018",
+		"imdbID": "tt11224592",
+		"type": "series",
+		"poster": "https://m.media-amazon.com/images/M/MV5BYTcxMjYzM2UtNWRmYS00YjJiLTg4OTItNjdjMTliZjk0ZDk1XkEyXkFqcGdeQXVyNDMxMDIyMDM@._V1_SX300.jpg"
+	}
+]

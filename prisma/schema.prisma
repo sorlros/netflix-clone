@@ -70,3 +70,12 @@ model Movie {
   genre String
   duration String
 } 
+
+model Series {
+  id String @id @default(auto()) @map("_id") @db.ObjectId
+  title String
+  year String
+  imdbID String
+  type String
+  poster String
+}
