@@ -10,15 +10,26 @@ export default async function handler(req: NextApiRequest, res: NextApiResponse)
 			const { currentUser } = await serverAuth(req, res);
 
 			const { movieId } = req.body;
+			const { seriesId } = req.body;
 
-			const existingMovie = await prismadb.movie.findUnique({
-				where: {
-					id: movieId,
-				},
-			});
-
-			if (!existingMovie) {
-				throw new Error("Invalid ID");
+			if (movieId) {
+				const existingMovie = await prismadb.movie.findUnique({
+					where: {
+						id: movieId,
+					},
+				});
+				if (!existingMovie) {
+					throw new Error("Invalid ID");
+				}
+			} else if (seriesId) {
+				const existingSeries = await prismadb.series.findUnique({
+					where: {
+						id: seriesId,
+					},
+				});
+				if (!existingSeries) {
+					throw new Error("Invalid ID");
+				}
 			}
 
 			const user = await prismadb.user.update({
@@ -27,7 +38,7 @@ export default async function handler(req: NextApiRequest, res: NextApiResponse)
 				},
 				data: {
 					favoriteIds: {
-						push: movieId,
+						push: movieId || seriesId,
 					},
 				},
 			});
@@ -37,20 +48,35 @@ export default async function handler(req: NextApiRequest, res: NextApiResponse)
 
 		if (req.method === "DELETE") {
 			const { currentUser } = await serverAuth(req, res);
+			const { movieId, seriesId } = req.query;
 
-			const movieId = String(req.query.movieId);
+			const queryId = String(seriesId || movieId);
 
-			const existingMovie = await prismadb.movie.findUnique({
-				where: {
-					id: movieId,
-				},
-			});
+			// const table = req.query === "movieId" ? "movie" : "series";
 
-			if (!existingMovie) {
-				throw new Error("Invalid ID");
+			if (!seriesId) {
+				const existingMovie = await prismadb.movie.findUnique({
+					where: {
+						id: queryId,
+					},
+				});
+
+				if (!existingMovie) {
+					throw new Error("Invalid ID");
+				}
+			} else if (!movieId) {
+				const existingMovie = await prismadb.series.findUnique({
+					where: {
+						id: queryId,
+					},
+				});
+
+				if (!existingMovie) {
+					throw new Error("Invalid ID");
+				}
 			}
 
-			const updatedFavoriteIds = without(currentUser.favoriteIds, movieId);
+			const updatedFavoriteIds = without(currentUser.favoriteIds, queryId);
 
 			const updatedUser = await prismadb.user.update({
 				where: {
